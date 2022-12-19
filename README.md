@@ -1,12 +1,13 @@
+
+
 - 👋 Hi, I’m @Edris-dosky
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in OOP PHP
+- 🌱 I’m currently learning LARAVEL
+- 📫 How to reach me edris.dosky@gmail.com
 
-<!---
-Edris-dosky/Edris-dosky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
-html5 css3 sass javascript bootstrap materialize jquery react redux vuejs nextjs reactnative
+<br>
+    <h3>connect with me : </h3>
+    <a href="https://www.facebook.com/profile.php?id=100010252503175"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/768px-Facebook_Logo_%282019%29.png" width="70px" height="70px" alt=""></a>
+    <a href="https://www.instagram.com/edris_dosky/?hl=en"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/640px-Instagram_icon.png" width="70px" height="70px" alt=""></a>
+
