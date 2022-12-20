@@ -1,6 +1,6 @@
 
-                                            "a programing language is a tool that has profound influence on our thinking habits"
-                                                                        Edsger W. Dijkstra
+                      "a programing language is a tool that has profound influence on our thinking habits"
+                                                      Edsger W. Dijkstra
 - 👋 Hi, I’m @Edris-dosky
 - 👀 I’m interested in OOP PHP
 - 🌱 I’m currently learning LARAVEL
