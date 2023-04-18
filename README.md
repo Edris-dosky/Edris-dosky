@@ -5,7 +5,7 @@
 - 👀 I’m interested in OOP PHP
 - 🌱 I’m currently learning LARAVEL
 - 📫 How to reach me edris.dosky@gmail.com
-- ![image](https://user-images.githubusercontent.com/112957614/232862970-ff704c33-7648-4b39-b7df-686ca05dcf5d.png)
+- <img src="![image](https://user-images.githubusercontent.com/112957614/232863144-b2bd00a2-72f3-4072-a82a-4c4815329482.png)" width="50px"> 
 
 
 
