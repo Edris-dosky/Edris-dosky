@@ -5,7 +5,7 @@
 - 👀 I’m interested in OOP PHP
 - 🌱 I’m currently learning LARAVEL
 - 📫 How to reach me edris.dosky@gmail.com
-- <img src="https://brainladdergames.com/wp-content/uploads/2019/03/tell-icon-png-6.png" width="20px" height="20px" alt="">    07503732421
+- <img src="https://brainladdergames.com/wp-content/uploads/2019/03/tell-icon-png-6.png" width="15px" height="15px" alt="">    07503732421
 
 
 
