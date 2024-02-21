@@ -15,7 +15,7 @@
     <a href="https://www.facebook.com/profile.php?id=100010252503175"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/768px-Facebook_Logo_%282019%29.png" width="70px" height="70px" alt=""></a>
     <a href="https://www.instagram.com/edris_dosky/?hl=en"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/640px-Instagram_icon.png" width="70px" height="70px" alt=""></a>
 <br>
-    <h3>Languages and Tools: </h3>
+    <h3>Languages: </h3>
     <a href=""><img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width="50px" height="50px" alt=""></a>
     <a href=""><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" width="50px" height="50px" alt=""></a>
    <a href=""><img src="https://www.freepnglogos.com/uploads/javascript-png/js-logo-png-5.png" width="50px" height="50px" alt=""></a>
